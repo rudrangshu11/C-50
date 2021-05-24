@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+
+.header{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.social-media{
+    display: flex;
+    justify-content: flex-end;
+}
+
